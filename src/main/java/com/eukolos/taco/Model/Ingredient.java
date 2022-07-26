@@ -5,7 +5,7 @@ import lombok.RequiredArgsConstructor;
 
 @Data
 @RequiredArgsConstructor
-public class TacoModel {
+public class Ingredient {
 
     private final String id;
     private final String name;
