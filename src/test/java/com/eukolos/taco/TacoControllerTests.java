@@ -1,6 +1,5 @@
 package com.eukolos.taco;
 
-import com.eukolos.taco.Controller.TacoController;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
